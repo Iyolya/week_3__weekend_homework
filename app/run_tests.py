@@ -1,6 +1,9 @@
-import unittest
-# from game_test import TestGame
-from tests.player_test import TestPlayer
+# import unittest
+# from app.tests.game_test import TestGame
+# from app.tests.player_test import TestPlayer
 
-if __name__ == '__main__':
-    unittest.main()
+# if __name__ == '__main__':
+#     unittest.main()
+
+
+
